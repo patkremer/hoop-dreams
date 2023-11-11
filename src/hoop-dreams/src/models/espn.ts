@@ -1,5 +1,5 @@
 export interface EspnList<Type> {
-    list: Type[];
+    data: { [key: string]: Type[] }
 }
 
 export interface EspnTeamSchedule {
@@ -10,4 +10,15 @@ export interface EspnTeamSchedule {
     result: string;
 }
 
+export interface EspnBracketologyTeam {
+    team_link: string | undefined;
+    team_id: string | undefined;
+    team: string;
+    seed: string;
+    region: string;
+    season: string;
+}
+
 export type EspnTeamScheduleList = EspnList<EspnTeamSchedule>;
+
+export type EspnBracketologyList = EspnList<EspnBracketologyTeam>;

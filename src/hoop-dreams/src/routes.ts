@@ -1,6 +1,9 @@
 import { CheerioAPI } from 'cheerio';
-import { createCheerioRouter, Request } from 'crawlee';
+import { createCheerioRouter, Request, Dataset } from 'crawlee';
 import { espnUrls } from './utils/espn-urls.js';
+import { EspnBracketologyScraper } from './scrapers/espn-bracketology-scraper.js';
+import { EspnBracketologyList, EspnTeamScheduleList } from './models/espn.js';
+import { EspnTeamScheduleScraper } from './scrapers/espn-team-schedule-scraper.js';
 
 export const router = createCheerioRouter();
 export const createDataToSave = (request: Request<any>, $: CheerioAPI ) => {
@@ -17,23 +20,23 @@ router.addDefaultHandler(async ({ enqueueLinks, log, request, $, pushData }) => 
     if (request.url === espnUrls.bracketology) {
         log.info(`${request.label} ${request.url} being ran`);
 
-        const bracket = $('.bracket__container').each((i, el) => {
-            log.info($(el).find('.bracket__subhead').first().text());
-        });
-        log.info(bracket.length.toString());
+        const scraper = new EspnBracketologyScraper();
+        const data = scraper.getData<EspnBracketologyList>(log, request, $);
+        
+        const dataset = await Dataset.open('bracket');
+        await dataset.pushData(data);
 
-        await pushData(createDataToSave(request, $));
-  
+
         await enqueueLinks({
             globs: [espnUrls.teamsBlobUrl],
             label: 'teams',
         });    
     }
 
-    await enqueueLinks({
-        globs: [espnUrls.teamStatsBlobUrl],
-        label: 'team-stats',
-    });
+    // await enqueueLinks({
+    //     globs: [espnUrls.teamStatsBlobUrl],
+    //     label: 'team-stats',
+    // });
 
     await enqueueLinks({
         globs: [espnUrls.scheduleBlobUrl],
@@ -67,14 +70,15 @@ router.addHandler('teams', async ({ request, $, log, pushData, enqueueLinks  }) 
 
 router.addHandler('schedule', async ({ request, $, log, pushData, enqueueLinks  }) => {
     log.info(`${request.label} ${request.url} being ran`);
+    const scraper = new EspnTeamScheduleScraper();
+    const data = scraper.getData<EspnTeamScheduleList>(log, request, $);
 
+    const dataset = await Dataset.open('schedule');
+    await dataset.pushData(data);
     // enqueueLinks({
     //     globs: [espnUrls.gameBlobUrl],
     //     label: 'games',
     // });
-
-    await pushData(createDataToSave(request, $));
-
 });
 
 router.addHandler('team-stats', async ({ request, $, log, pushData, enqueueLinks }) => {
