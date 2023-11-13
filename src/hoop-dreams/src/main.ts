@@ -26,6 +26,24 @@ const loadBracketology = async () => {
     await crawler.run();
 }
 
+
+const loadDailyBoxScores = async () => {
+    const startUrls = [espnUrls.dateD1Scoreboard];
+
+    const crawler = new CheerioCrawler({
+        // proxyConfiguration: new ProxyConfiguration({ proxyUrls: ['...'] }),
+        requestHandler: router,
+    });
+
+    const teamfullUrl = teams.map(team => `${team.espn_url}/${team.link}`);
+
+    // await crawler.addRequests(scheduleUrls);
+    await crawler.addRequests(startUrls);
+
+    await crawler.run();
+}
+
+
 const loadAllTeams = async () => {
 
     const crawler = new CheerioCrawler({
@@ -41,4 +59,4 @@ const loadAllTeams = async () => {
     await crawler.run();
 }
 
-await loadBracketology();
+await loadDailyBoxScores();

@@ -1,11 +1,11 @@
-import { EspnList, EspnTeamSchedule } from './../models/espn';
+import { EspnList, EspnGame } from './../models/espn';
 import { CheerioAPI } from 'cheerio';
 import { Log, Request } from 'crawlee';
 import { EspnScraper } from './scraper';
 
 export class EspnTeamScheduleScraper implements EspnScraper {
     getData<EspnTeamScheduleList>(log: Log, request: Request<any>, $: CheerioAPI): EspnTeamScheduleList {
-        const schedules: { [key: string]: EspnTeamSchedule[] } = {};
+        const schedules: { [key: string]: EspnGame[] } = {};
         const schedule_url = request.url;
 
         const trs = $('tr.Table__TR').each((i, el) => {

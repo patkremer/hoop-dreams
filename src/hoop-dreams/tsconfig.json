@@ -11,5 +11,5 @@
     },
     "include": [
         "./src/**/*"
-    ]
+, "../../../GitHub/mm-stats-app/src/data-crawlers/cbs-basketball-crawler/src/espn-routes.ts", "../../../GitHub/mm-stats-app/src/data-crawlers/cbs-basketball-crawler/src/espn-crawler.ts"    ]
 }

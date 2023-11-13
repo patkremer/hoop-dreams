@@ -7,5 +7,8 @@ export const espnUrls = {
     gameBlobUrl: 'https://www.espn.com/mens-college-basketball/game/_/gameId/**',
     gameBoxScoreBlobUrl: 'https://www.espn.com/mens-college-basketball/boxscore/_/gameId/**',
     playerBlobUrl: 'https://www.espn.com/mens-college-basketball/player/_/id/**',
-    playerGameLogBlobUrl: 'https://www.espn.com/mens-college-basketball/player/gamelog/_/id/**'
+    playerGameLogBlobUrl: 'https://www.espn.com/mens-college-basketball/player/gamelog/_/id/**',
+    dailyD1Scoreboard: 'https://www.espn.com/mens-college-basketball/scoreboard/_/seasontype/2/group/50',
+    dateD1Scoreboard: 'https://www.espn.com/mens-college-basketball/scoreboard/_/date/20231111/group/50'
+
 }

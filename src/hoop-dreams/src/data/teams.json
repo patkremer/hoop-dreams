@@ -1,6 +1,5 @@
 [
     {
-        "index": 291,
         "team": "Texas A&M-CC",
         "id": 357,
         "link": "texas-am-cc-islanders",
@@ -16,7 +15,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/357"
     },
     {
-        "index": 1,
         "team": "Abil Christian",
         "id": 2000,
         "link": "abilene-christian-wildcats",
@@ -32,7 +30,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2000"
     },
     {
-        "index": 2,
         "team": "Air Force",
         "id": 2005,
         "link": "air-force-falcons",
@@ -48,7 +45,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2005"
     },
     {
-        "index": 3,
         "team": "Akron",
         "id": 2006,
         "link": "akron-zips",
@@ -64,7 +60,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2006"
     },
     {
-        "index": 4,
         "team": "Alabama",
         "id": 333,
         "link": "alabama-crimson-tide",
@@ -80,7 +75,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/333"
     },
     {
-        "index": 5,
         "team": "Alabama A&M",
         "id": 2010,
         "link": "alabama-am-bulldogs",
@@ -96,7 +90,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2010"
     },
     {
-        "index": 6,
         "team": "Alabama State",
         "id": 2011,
         "link": "alabama-state-hornets",
@@ -112,7 +105,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2011"
     },
     {
-        "index": 7,
         "team": "Albany",
         "id": 399,
         "link": "albany-great-danes",
@@ -128,7 +120,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/399"
     },
     {
-        "index": 8,
         "team": "Alcorn State",
         "id": 2016,
         "link": "alcorn-state-braves",
@@ -144,7 +135,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2016"
     },
     {
-        "index": 9,
         "team": "American",
         "id": 44,
         "link": "american-eagles",
@@ -160,7 +150,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/44"
     },
     {
-        "index": 10,
         "team": "Appalachian St",
         "id": 2026,
         "link": "appalachian-state-mountaineers",
@@ -176,7 +165,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2026"
     },
     {
-        "index": 12,
         "team": "Arizona",
         "id": 12,
         "link": "arizona-wildcats",
@@ -192,7 +180,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/12"
     },
     {
-        "index": 13,
         "team": "Arizona State",
         "id": 9,
         "link": "arizona-state-sun-devils",
@@ -208,7 +195,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/9"
     },
     {
-        "index": 11,
         "team": "AR-Pine Bluff",
         "id": 2029,
         "link": "arkansas-pine-bluff-golden-lions",
@@ -224,7 +210,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2029"
     },
     {
-        "index": 14,
         "team": "Arkansas",
         "id": 8,
         "link": "arkansas-razorbacks",
@@ -240,7 +225,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/8"
     },
     {
-        "index": 15,
         "team": "Arkansas State",
         "id": 2032,
         "link": "arkansas-state-red-wolves",
@@ -256,7 +240,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2032"
     },
     {
-        "index": 16,
         "team": "Army",
         "id": 349,
         "link": "army-black-knights",
@@ -272,7 +255,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/349"
     },
     {
-        "index": 17,
         "team": "Auburn",
         "id": 2,
         "link": "auburn-tigers",
@@ -288,7 +270,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2"
     },
     {
-        "index": 18,
         "team": "Austin Peay",
         "id": 2046,
         "link": "austin-peay-governors",
@@ -304,7 +285,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2046"
     },
     {
-        "index": 19,
         "team": "Ball State",
         "id": 2050,
         "link": "ball-state-cardinals",
@@ -320,7 +300,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2050"
     },
     {
-        "index": 20,
         "team": "Baylor",
         "id": 239,
         "link": "baylor-bears",
@@ -336,7 +315,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/239"
     },
     {
-        "index": 21,
         "team": "Bellarmine",
         "id": 91,
         "link": "bellarmine-knights",
@@ -352,7 +330,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/91"
     },
     {
-        "index": 22,
         "team": "Belmont",
         "id": 2057,
         "link": "belmont-bruins",
@@ -368,7 +345,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2057"
     },
     {
-        "index": 23,
         "team": "Bethune-Cookman",
         "id": 2065,
         "link": "bethune-cookman-wildcats",
@@ -384,7 +360,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2065"
     },
     {
-        "index": 24,
         "team": "Binghamton",
         "id": 2066,
         "link": "binghamton-bearcats",
@@ -400,7 +375,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2066"
     },
     {
-        "index": 25,
         "team": "Boise State",
         "id": 68,
         "link": "boise-state-broncos",
@@ -416,7 +390,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/68"
     },
     {
-        "index": 26,
         "team": "Boston College",
         "id": 103,
         "link": "boston-college-eagles",
@@ -432,7 +405,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/103"
     },
     {
-        "index": 27,
         "team": "Boston U",
         "id": 104,
         "link": "boston-university-terriers",
@@ -448,7 +420,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/104"
     },
     {
-        "index": 28,
         "team": "Bowling Green",
         "id": 189,
         "link": "bowling-green-falcons",
@@ -464,7 +435,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/189"
     },
     {
-        "index": 29,
         "team": "Bradley",
         "id": 71,
         "link": "bradley-braves",
@@ -480,7 +450,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/71"
     },
     {
-        "index": 30,
         "team": "Brown",
         "id": 225,
         "link": "brown-bears",
@@ -496,7 +465,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/225"
     },
     {
-        "index": 31,
         "team": "Bryant",
         "id": 2803,
         "link": "bryant-bulldogs",
@@ -512,7 +480,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2803"
     },
     {
-        "index": 32,
         "team": "Bucknell",
         "id": 2083,
         "link": "bucknell-bison",
@@ -528,7 +495,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2083"
     },
     {
-        "index": 33,
         "team": "Buffalo",
         "id": 2084,
         "link": "buffalo-bulls",
@@ -544,7 +510,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2084"
     },
     {
-        "index": 34,
         "team": "Butler",
         "id": 2086,
         "link": "butler-bulldogs",
@@ -560,7 +525,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2086"
     },
     {
-        "index": 35,
         "team": "BYU",
         "id": 252,
         "link": "byu-cougars",
@@ -576,7 +540,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/252"
     },
     {
-        "index": 39,
         "team": "Cal Poly",
         "id": 13,
         "link": "cal-poly-mustangs",
@@ -592,7 +555,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/13"
     },
     {
-        "index": 61,
         "team": "CSU Fullerton",
         "id": 2239,
         "link": "csu-fullerton-titans",
@@ -608,7 +570,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2239"
     },
     {
-        "index": 37,
         "team": "Cal",
         "id": 25,
         "link": "california-golden-bears",
@@ -624,7 +585,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/25"
     },
     {
-        "index": 38,
         "team": "Cal Baptist",
         "id": 2856,
         "link": "california-baptist-lancers",
@@ -640,7 +600,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2856"
     },
     {
-        "index": 40,
         "team": "Campbell",
         "id": 2097,
         "link": "campbell-fighting-camels",
@@ -656,7 +615,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2097"
     },
     {
-        "index": 41,
         "team": "Canisius",
         "id": 2099,
         "link": "canisius-golden-griffins",
@@ -672,7 +630,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2099"
     },
     {
-        "index": 42,
         "team": "Cent Arkansas",
         "id": 2110,
         "link": "central-arkansas-bears",
@@ -688,7 +645,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2110"
     },
     {
-        "index": 43,
         "team": "Cent Conn St",
         "id": 2115,
         "link": "central-connecticut-blue-devils",
@@ -704,7 +660,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2115"
     },
     {
-        "index": 44,
         "team": "Cent Michigan",
         "id": 2117,
         "link": "central-michigan-chippewas",
@@ -720,7 +675,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2117"
     },
     {
-        "index": 46,
         "team": "Charleston So",
         "id": 2127,
         "link": "charleston-southern-buccaneers",
@@ -736,7 +690,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2127"
     },
     {
-        "index": 47,
         "team": "Charlotte",
         "id": 2429,
         "link": "charlotte-49ers",
@@ -752,7 +705,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2429"
     },
     {
-        "index": 48,
         "team": "Chattanooga",
         "id": 236,
         "link": "chattanooga-mocs",
@@ -768,7 +720,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/236"
     },
     {
-        "index": 49,
         "team": "Chicago State",
         "id": 2130,
         "link": "chicago-state-cougars",
@@ -784,7 +735,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2130"
     },
     {
-        "index": 50,
         "team": "Cincinnati",
         "id": 2132,
         "link": "cincinnati-bearcats",
@@ -800,7 +750,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2132"
     },
     {
-        "index": 51,
         "team": "Clemson",
         "id": 228,
         "link": "clemson-tigers",
@@ -816,7 +765,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/228"
     },
     {
-        "index": 52,
         "team": "Cleveland State",
         "id": 325,
         "link": "cleveland-state-vikings",
@@ -832,7 +780,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/325"
     },
     {
-        "index": 36,
         "team": "C. Carolina",
         "id": 324,
         "link": "coastal-carolina-chanticleers",
@@ -848,7 +795,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/324"
     },
     {
-        "index": 45,
         "team": "Charleston",
         "id": 232,
         "link": "charleston-cougars",
@@ -864,7 +810,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/232"
     },
     {
-        "index": 53,
         "team": "Colgate",
         "id": 2142,
         "link": "colgate-raiders",
@@ -880,7 +825,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2142"
     },
     {
-        "index": 54,
         "team": "Colorado",
         "id": 38,
         "link": "colorado-buffaloes",
@@ -896,7 +840,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/38"
     },
     {
-        "index": 55,
         "team": "Colorado State",
         "id": 36,
         "link": "colorado-state-rams",
@@ -912,7 +855,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/36"
     },
     {
-        "index": 56,
         "team": "Columbia",
         "id": 171,
         "link": "columbia-lions",
@@ -928,7 +870,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/171"
     },
     {
-        "index": 57,
         "team": "Coppin State",
         "id": 2154,
         "link": "coppin-state-eagles",
@@ -944,7 +885,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2154"
     },
     {
-        "index": 58,
         "team": "Cornell",
         "id": 172,
         "link": "cornell-big-red",
@@ -960,7 +900,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/172"
     },
     {
-        "index": 59,
         "team": "Creighton",
         "id": 156,
         "link": "creighton-bluejays",
@@ -976,7 +915,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/156"
     },
     {
-        "index": 60,
         "team": "CSU Bakersfield",
         "id": 2934,
         "link": "csu-bakersfield-roadrunners",
@@ -992,7 +930,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2934"
     },
     {
-        "index": 62,
         "team": "CSU Northridge",
         "id": 2463,
         "link": "csu-northridge-matadors",
@@ -1008,7 +945,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2463"
     },
     {
-        "index": 63,
         "team": "Dartmouth",
         "id": 159,
         "link": "dartmouth-big-green",
@@ -1024,7 +960,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/159"
     },
     {
-        "index": 64,
         "team": "Davidson",
         "id": 2166,
         "link": "davidson-wildcats",
@@ -1040,7 +975,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2166"
     },
     {
-        "index": 65,
         "team": "Dayton",
         "id": 2168,
         "link": "dayton-flyers",
@@ -1056,7 +990,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2168"
     },
     {
-        "index": 66,
         "team": "Delaware",
         "id": 48,
         "link": "delaware-blue-hens",
@@ -1072,7 +1005,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/48"
     },
     {
-        "index": 67,
         "team": "Delaware State",
         "id": 2169,
         "link": "delaware-state-hornets",
@@ -1088,7 +1020,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2169"
     },
     {
-        "index": 68,
         "team": "Denver",
         "id": 2172,
         "link": "denver-pioneers",
@@ -1104,7 +1035,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2172"
     },
     {
-        "index": 69,
         "team": "DePaul",
         "id": 305,
         "link": "depaul-blue-demons",
@@ -1120,7 +1050,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/305"
     },
     {
-        "index": 70,
         "team": "Detroit Mercy",
         "id": 2174,
         "link": "detroit-mercy-titans",
@@ -1136,7 +1065,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2174"
     },
     {
-        "index": 332,
         "team": "Utah Tech",
         "id": 3101,
         "link": "utah-tech-trailblazers",
@@ -1152,7 +1080,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/3101"
     },
     {
-        "index": 71,
         "team": "Drake",
         "id": 2181,
         "link": "drake-bulldogs",
@@ -1168,7 +1095,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2181"
     },
     {
-        "index": 72,
         "team": "Drexel",
         "id": 2182,
         "link": "drexel-dragons",
@@ -1184,7 +1110,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2182"
     },
     {
-        "index": 73,
         "team": "Duke",
         "id": 150,
         "link": "duke-blue-devils",
@@ -1200,7 +1125,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/150"
     },
     {
-        "index": 74,
         "team": "Duquesne",
         "id": 2184,
         "link": "duquesne-dukes",
@@ -1216,7 +1140,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2184"
     },
     {
-        "index": 79,
         "team": "ECU",
         "id": 151,
         "link": "east-carolina-pirates",
@@ -1232,7 +1155,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/151"
     },
     {
-        "index": 75,
         "team": "E Illinois",
         "id": 2197,
         "link": "eastern-illinois-panthers",
@@ -1248,7 +1170,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2197"
     },
     {
-        "index": 76,
         "team": "E Kentucky",
         "id": 2198,
         "link": "eastern-kentucky-colonels",
@@ -1264,7 +1185,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2198"
     },
     {
-        "index": 77,
         "team": "E Michigan",
         "id": 2199,
         "link": "eastern-michigan-eagles",
@@ -1280,7 +1200,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2199"
     },
     {
-        "index": 78,
         "team": "E Washington",
         "id": 331,
         "link": "eastern-washington-eagles",
@@ -1296,7 +1215,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/331"
     },
     {
-        "index": 80,
         "team": "Elon",
         "id": 2210,
         "link": "elon-phoenix",
@@ -1312,7 +1230,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2210"
     },
     {
-        "index": 81,
         "team": "ETSU",
         "id": 2193,
         "link": "east-tennessee-state-buccaneers",
@@ -1328,7 +1245,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2193"
     },
     {
-        "index": 82,
         "team": "Evansville",
         "id": 339,
         "link": "evansville-purple-aces",
@@ -1344,7 +1260,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/339"
     },
     {
-        "index": 84,
         "team": "Fairfield",
         "id": 2217,
         "link": "fairfield-stags",
@@ -1360,7 +1275,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2217"
     },
     {
-        "index": 83,
         "team": "Fair Dickinson",
         "id": 161,
         "link": "fairleigh-dickinson-knights",
@@ -1376,7 +1290,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/161"
     },
     {
-        "index": 86,
         "team": "FGCU",
         "id": 526,
         "link": "florida-gulf-coast-eagles",
@@ -1392,7 +1305,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/526"
     },
     {
-        "index": 87,
         "team": "FIU",
         "id": 2229,
         "link": "florida-international-panthers",
@@ -1408,7 +1320,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2229"
     },
     {
-        "index": 85,
         "team": "FAU",
         "id": 2226,
         "link": "florida-atlantic-owls",
@@ -1424,7 +1335,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2226"
     },
     {
-        "index": 88,
         "team": "Florida",
         "id": 57,
         "link": "florida-gators",
@@ -1440,7 +1350,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/57"
     },
     {
-        "index": 89,
         "team": "Florida A&M",
         "id": 50,
         "link": "florida-am-rattlers",
@@ -1456,7 +1365,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/50"
     },
     {
-        "index": 90,
         "team": "Florida State",
         "id": 52,
         "link": "florida-state-seminoles",
@@ -1472,7 +1380,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/52"
     },
     {
-        "index": 91,
         "team": "Fordham",
         "id": 2230,
         "link": "fordham-rams",
@@ -1488,7 +1395,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2230"
     },
     {
-        "index": 93,
         "team": "Fresno State",
         "id": 278,
         "link": "fresno-state-bulldogs",
@@ -1504,7 +1410,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/278"
     },
     {
-        "index": 94,
         "team": "Furman",
         "id": 231,
         "link": "furman-paladins",
@@ -1520,7 +1425,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/231"
     },
     {
-        "index": 96,
         "team": "Ga Southern",
         "id": 290,
         "link": "georgia-southern-eagles",
@@ -1536,7 +1440,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/290"
     },
     {
-        "index": 97,
         "team": "Gardner-Webb",
         "id": 2241,
         "link": "gardner-webb-bulldogs",
@@ -1552,7 +1455,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2241"
     },
     {
-        "index": 98,
         "team": "George Mason",
         "id": 2244,
         "link": "george-mason-patriots",
@@ -1568,7 +1470,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2244"
     },
     {
-        "index": 95,
         "team": "G Washington",
         "id": 45,
         "link": "george-washington-colonials",
@@ -1584,7 +1485,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/45"
     },
     {
-        "index": 99,
         "team": "Georgetown",
         "id": 46,
         "link": "georgetown-hoyas",
@@ -1600,7 +1500,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/46"
     },
     {
-        "index": 100,
         "team": "Georgia",
         "id": 61,
         "link": "georgia-bulldogs",
@@ -1616,7 +1515,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/61"
     },
     {
-        "index": 101,
         "team": "Georgia State",
         "id": 2247,
         "link": "georgia-state-panthers",
@@ -1632,7 +1530,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2247"
     },
     {
-        "index": 102,
         "team": "Georgia Tech",
         "id": 59,
         "link": "georgia-tech-yellow-jackets",
@@ -1648,7 +1545,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/59"
     },
     {
-        "index": 103,
         "team": "Gonzaga",
         "id": 2250,
         "link": "gonzaga-bulldogs",
@@ -1664,7 +1560,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2250"
     },
     {
-        "index": 104,
         "team": "Grambling",
         "id": 2755,
         "link": "grambling-tigers",
@@ -1680,7 +1575,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2755"
     },
     {
-        "index": 105,
         "team": "Grand Canyon",
         "id": 2253,
         "link": "grand-canyon-antelopes",
@@ -1696,7 +1590,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2253"
     },
     {
-        "index": 106,
         "team": "Green Bay",
         "id": 2739,
         "link": "green-bay-phoenix",
@@ -1712,7 +1605,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2739"
     },
     {
-        "index": 107,
         "team": "Hampton",
         "id": 2261,
         "link": "hampton-pirates",
@@ -1728,7 +1620,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2261"
     },
     {
-        "index": 108,
         "team": "Hartford",
         "id": 42,
         "link": "hartford-hawks",
@@ -1744,7 +1635,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/42"
     },
     {
-        "index": 109,
         "team": "Harvard",
         "id": 108,
         "link": "harvard-crimson",
@@ -1760,7 +1650,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/108"
     },
     {
-        "index": 110,
         "team": "Hawai'i",
         "id": 62,
         "link": "hawaii-rainbow-warriors",
@@ -1776,7 +1665,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/62"
     },
     {
-        "index": 111,
         "team": "High Point",
         "id": 2272,
         "link": "high-point-panthers",
@@ -1792,7 +1680,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2272"
     },
     {
-        "index": 112,
         "team": "Hofstra",
         "id": 2275,
         "link": "hofstra-pride",
@@ -1808,7 +1695,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2275"
     },
     {
-        "index": 113,
         "team": "Holy Cross",
         "id": 107,
         "link": "holy-cross-crusaders",
@@ -1824,7 +1710,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/107"
     },
     {
-        "index": 114,
         "team": "Houston",
         "id": 248,
         "link": "houston-cougars",
@@ -1840,7 +1725,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/248"
     },
     {
-        "index": 115,
         "team": "Houston Baptist",
         "id": 2277,
         "link": "houston-baptist-huskies",
@@ -1856,7 +1740,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2277"
     },
     {
-        "index": 116,
         "team": "Howard",
         "id": 47,
         "link": "howard-bison",
@@ -1872,7 +1755,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/47"
     },
     {
-        "index": 117,
         "team": "Idaho",
         "id": 70,
         "link": "idaho-vandals",
@@ -1888,7 +1770,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/70"
     },
     {
-        "index": 118,
         "team": "Idaho State",
         "id": 304,
         "link": "idaho-state-bengals",
@@ -1904,7 +1785,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/304"
     },
     {
-        "index": 119,
         "team": "Illinois",
         "id": 356,
         "link": "illinois-fighting-illini",
@@ -1920,7 +1800,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/356"
     },
     {
-        "index": 120,
         "team": "Illinois State",
         "id": 2287,
         "link": "illinois-state-redbirds",
@@ -1936,7 +1815,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2287"
     },
     {
-        "index": 122,
         "team": "Indiana",
         "id": 84,
         "link": "indiana-hoosiers",
@@ -1952,7 +1830,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/84"
     },
     {
-        "index": 123,
         "team": "Indiana State",
         "id": 282,
         "link": "indiana-state-sycamores",
@@ -1968,7 +1845,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/282"
     },
     {
-        "index": 124,
         "team": "Iona",
         "id": 314,
         "link": "iona-gaels",
@@ -1984,7 +1860,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/314"
     },
     {
-        "index": 125,
         "team": "Iowa",
         "id": 2294,
         "link": "iowa-hawkeyes",
@@ -2000,7 +1875,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2294"
     },
     {
-        "index": 126,
         "team": "Iowa State",
         "id": 66,
         "link": "iowa-state-cyclones",
@@ -2016,7 +1890,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/66"
     },
     {
-        "index": 127,
         "team": "IUPUI",
         "id": 85,
         "link": "iupui-jaguars",
@@ -2032,7 +1905,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/85"
     },
     {
-        "index": 128,
         "team": "Jackson State",
         "id": 2296,
         "link": "jackson-state-tigers",
@@ -2048,7 +1920,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2296"
     },
     {
-        "index": 129,
         "team": "Jacksonville",
         "id": 294,
         "link": "jacksonville-dolphins",
@@ -2064,7 +1935,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/294"
     },
     {
-        "index": 130,
         "team": "Jacksonville St",
         "id": 55,
         "link": "jacksonville-state-gamecocks",
@@ -2080,7 +1950,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/55"
     },
     {
-        "index": 131,
         "team": "JMU",
         "id": 256,
         "link": "james-madison-dukes",
@@ -2096,7 +1965,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/256"
     },
     {
-        "index": 132,
         "team": "Kansas",
         "id": 2305,
         "link": "kansas-jayhawks",
@@ -2112,7 +1980,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2305"
     },
     {
-        "index": 316,
         "team": "UMKC",
         "id": 140,
         "link": "um-kansas-city-roos",
@@ -2128,7 +1995,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/140"
     },
     {
-        "index": 133,
         "team": "Kansas State",
         "id": 2306,
         "link": "kansas-state-wildcats",
@@ -2144,7 +2010,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2306"
     },
     {
-        "index": 134,
         "team": "Kennesaw State",
         "id": 338,
         "link": "kennesaw-state-owls",
@@ -2160,7 +2025,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/338"
     },
     {
-        "index": 135,
         "team": "Kent State",
         "id": 2309,
         "link": "kent-state-golden-flashes",
@@ -2176,7 +2040,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2309"
     },
     {
-        "index": 136,
         "team": "Kentucky",
         "id": 96,
         "link": "kentucky-wildcats",
@@ -2192,7 +2055,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/96"
     },
     {
-        "index": 137,
         "team": "La Salle",
         "id": 2325,
         "link": "la-salle-explorers",
@@ -2208,7 +2070,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2325"
     },
     {
-        "index": 139,
         "team": "Lafayette",
         "id": 322,
         "link": "lafayette-leopards",
@@ -2224,7 +2085,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/322"
     },
     {
-        "index": 140,
         "team": "Lamar",
         "id": 2320,
         "link": "lamar-cardinals",
@@ -2240,7 +2100,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2320"
     },
     {
-        "index": 141,
         "team": "Lehigh",
         "id": 2329,
         "link": "lehigh-mountain-hawks",
@@ -2256,7 +2115,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2329"
     },
     {
-        "index": 142,
         "team": "Liberty",
         "id": 2335,
         "link": "liberty-flames",
@@ -2272,7 +2130,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2335"
     },
     {
-        "index": 144,
         "team": "Lipscomb",
         "id": 288,
         "link": "lipscomb-bisons",
@@ -2288,7 +2145,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/288"
     },
     {
-        "index": 145,
         "team": "Little Rock",
         "id": 2031,
         "link": "little-rock-trojans",
@@ -2304,7 +2160,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2031"
     },
     {
-        "index": 146,
         "team": "LIU",
         "id": 112358,
         "link": "long-island-university-sharks",
@@ -2320,7 +2175,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/112358"
     },
     {
-        "index": 152,
         "team": "Loyola Mary",
         "id": 2351,
         "link": "loyola-marymount-lions",
@@ -2336,7 +2190,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2351"
     },
     {
-        "index": 147,
         "team": "Long Beach State",
         "id": 299,
         "link": "long-beach-state-beach",
@@ -2352,7 +2205,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/299"
     },
     {
-        "index": 148,
         "team": "Longwood",
         "id": 2344,
         "link": "longwood-lancers",
@@ -2368,7 +2220,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2344"
     },
     {
-        "index": 149,
         "team": "Louisiana",
         "id": 309,
         "link": "louisiana-ragin-cajuns",
@@ -2384,7 +2235,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/309"
     },
     {
-        "index": 138,
         "team": "LA Tech",
         "id": 2348,
         "link": "louisiana-tech-bulldogs",
@@ -2400,7 +2250,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2348"
     },
     {
-        "index": 150,
         "team": "Louisville",
         "id": 97,
         "link": "louisville-cardinals",
@@ -2416,7 +2265,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/97"
     },
     {
-        "index": 153,
         "team": "Loyola-Chicago",
         "id": 2350,
         "link": "loyola-chicago-ramblers",
@@ -2432,7 +2280,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2350"
     },
     {
-        "index": 151,
         "team": "Loyola (MD)",
         "id": 2352,
         "link": "loyola-md-greyhounds",
@@ -2448,7 +2295,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2352"
     },
     {
-        "index": 154,
         "team": "LSU",
         "id": 99,
         "link": "lsu-tigers",
@@ -2464,7 +2310,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/99"
     },
     {
-        "index": 155,
         "team": "Maine",
         "id": 311,
         "link": "maine-black-bears",
@@ -2480,7 +2325,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/311"
     },
     {
-        "index": 156,
         "team": "Manhattan",
         "id": 2363,
         "link": "manhattan-jaspers",
@@ -2496,7 +2340,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2363"
     },
     {
-        "index": 157,
         "team": "Marist",
         "id": 2368,
         "link": "marist-red-foxes",
@@ -2512,7 +2355,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2368"
     },
     {
-        "index": 158,
         "team": "Marquette",
         "id": 269,
         "link": "marquette-golden-eagles",
@@ -2528,7 +2370,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/269"
     },
     {
-        "index": 159,
         "team": "Marshall",
         "id": 276,
         "link": "marshall-thundering-herd",
@@ -2544,7 +2385,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/276"
     },
     {
-        "index": 160,
         "team": "Maryland",
         "id": 120,
         "link": "maryland-terrapins",
@@ -2560,7 +2400,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/120"
     },
     {
-        "index": 313,
         "team": "UMass",
         "id": 113,
         "link": "umass-minutemen",
@@ -2576,7 +2415,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/113"
     },
     {
-        "index": 161,
         "team": "Mcneese",
         "id": 2377,
         "link": "mcneese-cowboys",
@@ -2592,7 +2430,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2377"
     },
     {
-        "index": 163,
         "team": "Memphis",
         "id": 235,
         "link": "memphis-tigers",
@@ -2608,7 +2445,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/235"
     },
     {
-        "index": 164,
         "team": "Mercer",
         "id": 2382,
         "link": "mercer-bears",
@@ -2624,7 +2460,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2382"
     },
     {
-        "index": 165,
         "team": "Merrimack",
         "id": 2771,
         "link": "merrimack-warriors",
@@ -2640,7 +2475,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2771"
     },
     {
-        "index": 166,
         "team": "Miami",
         "id": 2390,
         "link": "miami-hurricanes",
@@ -2656,7 +2490,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2390"
     },
     {
-        "index": 167,
         "team": "Miami (OH)",
         "id": 193,
         "link": "miami-oh-redhawks",
@@ -2672,7 +2505,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/193"
     },
     {
-        "index": 168,
         "team": "Michigan",
         "id": 130,
         "link": "michigan-wolverines",
@@ -2688,7 +2520,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/130"
     },
     {
-        "index": 169,
         "team": "Michigan State",
         "id": 127,
         "link": "michigan-state-spartans",
@@ -2704,7 +2535,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/127"
     },
     {
-        "index": 170,
         "team": "Mid Tennessee",
         "id": 2393,
         "link": "middle-tennessee-blue-raiders",
@@ -2720,7 +2550,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2393"
     },
     {
-        "index": 171,
         "team": "Milwaukee",
         "id": 270,
         "link": "milwaukee-panthers",
@@ -2736,7 +2565,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/270"
     },
     {
-        "index": 172,
         "team": "Minnesota",
         "id": 135,
         "link": "minnesota-golden-gophers",
@@ -2752,7 +2580,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/135"
     },
     {
-        "index": 173,
         "team": "Miss St",
         "id": 344,
         "link": "mississippi-state-bulldogs",
@@ -2768,7 +2595,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/344"
     },
     {
-        "index": 174,
         "team": "Miss Valley St",
         "id": 2400,
         "link": "mississippi-valley-state-delta-devils",
@@ -2784,7 +2610,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2400"
     },
     {
-        "index": 175,
         "team": "Missouri",
         "id": 142,
         "link": "missouri-tigers",
@@ -2800,7 +2625,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/142"
     },
     {
-        "index": 176,
         "team": "Missouri State",
         "id": 2623,
         "link": "missouri-state-bears",
@@ -2816,7 +2640,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2623"
     },
     {
-        "index": 177,
         "team": "Monmouth",
         "id": 2405,
         "link": "monmouth-hawks",
@@ -2832,7 +2655,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2405"
     },
     {
-        "index": 178,
         "team": "Montana",
         "id": 149,
         "link": "montana-grizzlies",
@@ -2848,7 +2670,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/149"
     },
     {
-        "index": 179,
         "team": "Montana State",
         "id": 147,
         "link": "montana-state-bobcats",
@@ -2864,7 +2685,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/147"
     },
     {
-        "index": 180,
         "team": "Morehead State",
         "id": 2413,
         "link": "morehead-state-eagles",
@@ -2880,7 +2700,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2413"
     },
     {
-        "index": 181,
         "team": "Morgan State",
         "id": 2415,
         "link": "morgan-st-bears",
@@ -2896,7 +2715,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2415"
     },
     {
-        "index": 182,
         "team": "Mt St Mary's",
         "id": 116,
         "link": "mount-st-marys-mountaineers",
@@ -2912,7 +2730,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/116"
     },
     {
-        "index": 183,
         "team": "Murray State",
         "id": 93,
         "link": "murray-state-racers",
@@ -2928,7 +2745,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/93"
     },
     {
-        "index": 189,
         "team": "NC A&T",
         "id": 2448,
         "link": "north-carolina-at-aggies",
@@ -2944,7 +2760,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2448"
     },
     {
-        "index": 190,
         "team": "NC Central",
         "id": 2428,
         "link": "north-carolina-central-eagles",
@@ -2960,7 +2775,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2428"
     },
     {
-        "index": 188,
         "team": "Navy",
         "id": 2426,
         "link": "navy-midshipmen",
@@ -2976,7 +2790,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2426"
     },
     {
-        "index": 191,
         "team": "NC State",
         "id": 152,
         "link": "nc-state-wolfpack",
@@ -2992,7 +2805,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/152"
     },
     {
-        "index": 192,
         "team": "Nebraska",
         "id": 158,
         "link": "nebraska-cornhuskers",
@@ -3008,7 +2820,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/158"
     },
     {
-        "index": 193,
         "team": "Nevada",
         "id": 2440,
         "link": "nevada-wolf-pack",
@@ -3024,7 +2835,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2440"
     },
     {
-        "index": 321,
         "team": "UNH",
         "id": 160,
         "link": "new-hampshire-wildcats",
@@ -3040,7 +2850,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/160"
     },
     {
-        "index": 194,
         "team": "New Mexico",
         "id": 167,
         "link": "new-mexico-lobos",
@@ -3056,7 +2865,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/167"
     },
     {
-        "index": 195,
         "team": "New Mexico St",
         "id": 166,
         "link": "new-mexico-state-aggies",
@@ -3072,7 +2880,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/166"
     },
     {
-        "index": 196,
         "team": "New Orleans",
         "id": 2443,
         "link": "new-orleans-privateers",
@@ -3088,7 +2895,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2443"
     },
     {
-        "index": 197,
         "team": "Niagara",
         "id": 315,
         "link": "niagara-purple-eagles",
@@ -3104,7 +2910,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/315"
     },
     {
-        "index": 198,
         "team": "Nicholls",
         "id": 2447,
         "link": "nicholls-colonels",
@@ -3120,7 +2925,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2447"
     },
     {
-        "index": 199,
         "team": "NJIT",
         "id": 2885,
         "link": "njit-highlanders",
@@ -3136,7 +2940,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2885"
     },
     {
-        "index": 200,
         "team": "Norfolk State",
         "id": 2450,
         "link": "norfolk-state-spartans",
@@ -3152,7 +2955,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2450"
     },
     {
-        "index": 201,
         "team": "North Alabama",
         "id": 2453,
         "link": "north-alabama-lions",
@@ -3168,7 +2970,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2453"
     },
     {
-        "index": 317,
         "team": "UNC",
         "id": 153,
         "link": "north-carolina-tar-heels",
@@ -3184,7 +2985,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/153"
     },
     {
-        "index": 202,
         "team": "North Dakota",
         "id": 155,
         "link": "north-dakota-fighting-hawks",
@@ -3200,7 +3000,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/155"
     },
     {
-        "index": 203,
         "team": "North Dakota St",
         "id": 2449,
         "link": "north-dakota-state-bison",
@@ -3216,7 +3015,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2449"
     },
     {
-        "index": 204,
         "team": "North Florida",
         "id": 2454,
         "link": "north-florida-ospreys",
@@ -3232,7 +3030,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2454"
     },
     {
-        "index": 205,
         "team": "North Texas",
         "id": 249,
         "link": "north-texas-mean-green",
@@ -3248,7 +3045,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/249"
     },
     {
-        "index": 206,
         "team": "Northeastern",
         "id": 111,
         "link": "northeastern-huskies",
@@ -3264,7 +3060,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/111"
     },
     {
-        "index": 184,
         "team": "N Arizona",
         "id": 2464,
         "link": "northern-arizona-lumberjacks",
@@ -3280,7 +3075,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2464"
     },
     {
-        "index": 185,
         "team": "N Colorado",
         "id": 2458,
         "link": "northern-colorado-bears",
@@ -3296,7 +3090,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2458"
     },
     {
-        "index": 186,
         "team": "N Illinois",
         "id": 2459,
         "link": "northern-illinois-huskies",
@@ -3312,7 +3105,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2459"
     },
     {
-        "index": 187,
         "team": "N Kentucky",
         "id": 94,
         "link": "northern-kentucky-norse",
@@ -3328,7 +3120,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/94"
     },
     {
-        "index": 208,
         "team": "Northwestern",
         "id": 77,
         "link": "northwestern-wildcats",
@@ -3344,7 +3135,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/77"
     },
     {
-        "index": 209,
         "team": "Northwestern St",
         "id": 2466,
         "link": "northwestern-state-demons",
@@ -3360,7 +3150,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2466"
     },
     {
-        "index": 210,
         "team": "Notre Dame",
         "id": 87,
         "link": "notre-dame-fighting-irish",
@@ -3376,7 +3165,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/87"
     },
     {
-        "index": 211,
         "team": "Oakland",
         "id": 2473,
         "link": "oakland-golden-grizzlies",
@@ -3392,7 +3180,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2473"
     },
     {
-        "index": 212,
         "team": "Ohio",
         "id": 195,
         "link": "ohio-bobcats",
@@ -3408,7 +3195,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/195"
     },
     {
-        "index": 213,
         "team": "Ohio State",
         "id": 194,
         "link": "ohio-state-buckeyes",
@@ -3424,7 +3210,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/194"
     },
     {
-        "index": 214,
         "team": "Oklahoma",
         "id": 201,
         "link": "oklahoma-sooners",
@@ -3440,7 +3225,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/201"
     },
     {
-        "index": 215,
         "team": "Oklahoma State",
         "id": 197,
         "link": "oklahoma-state-cowboys",
@@ -3456,7 +3240,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/197"
     },
     {
-        "index": 216,
         "team": "Old Dominion",
         "id": 295,
         "link": "old-dominion-monarchs",
@@ -3472,7 +3255,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/295"
     },
     {
-        "index": 217,
         "team": "Ole Miss",
         "id": 145,
         "link": "ole-miss-rebels",
@@ -3488,7 +3270,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/145"
     },
     {
-        "index": 218,
         "team": "Omaha",
         "id": 2437,
         "link": "omaha-mavericks",
@@ -3504,7 +3285,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2437"
     },
     {
-        "index": 219,
         "team": "Oral Roberts",
         "id": 198,
         "link": "oral-roberts-golden-eagles",
@@ -3520,7 +3300,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/198"
     },
     {
-        "index": 220,
         "team": "Oregon",
         "id": 2483,
         "link": "oregon-ducks",
@@ -3536,7 +3315,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2483"
     },
     {
-        "index": 221,
         "team": "Oregon State",
         "id": 204,
         "link": "oregon-state-beavers",
@@ -3552,7 +3330,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/204"
     },
     {
-        "index": 222,
         "team": "Pacific",
         "id": 279,
         "link": "pacific-tigers",
@@ -3568,7 +3345,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/279"
     },
     {
-        "index": 223,
         "team": "Penn",
         "id": 219,
         "link": "pennsylvania-quakers",
@@ -3584,7 +3360,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/219"
     },
     {
-        "index": 224,
         "team": "Penn State",
         "id": 213,
         "link": "penn-state-nittany-lions",
@@ -3600,7 +3375,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/213"
     },
     {
-        "index": 225,
         "team": "Pepperdine",
         "id": 2492,
         "link": "pepperdine-waves",
@@ -3616,7 +3390,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2492"
     },
     {
-        "index": 226,
         "team": "Pitt",
         "id": 221,
         "link": "pittsburgh-panthers",
@@ -3632,7 +3405,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/221"
     },
     {
-        "index": 227,
         "team": "Portland",
         "id": 2501,
         "link": "portland-pilots",
@@ -3648,7 +3420,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2501"
     },
     {
-        "index": 228,
         "team": "Portland State",
         "id": 2502,
         "link": "portland-state-vikings",
@@ -3664,7 +3435,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2502"
     },
     {
-        "index": 233,
         "team": "PV A&M",
         "id": 2504,
         "link": "prairie-view-am-panthers",
@@ -3680,7 +3450,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2504"
     },
     {
-        "index": 229,
         "team": "Presbyterian",
         "id": 2506,
         "link": "presbyterian-blue-hose",
@@ -3696,7 +3465,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2506"
     },
     {
-        "index": 230,
         "team": "Princeton",
         "id": 163,
         "link": "princeton-tigers",
@@ -3712,7 +3480,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/163"
     },
     {
-        "index": 231,
         "team": "Providence",
         "id": 2507,
         "link": "providence-friars",
@@ -3728,7 +3495,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2507"
     },
     {
-        "index": 232,
         "team": "Purdue",
         "id": 2509,
         "link": "purdue-boilermakers",
@@ -3744,7 +3510,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2509"
     },
     {
-        "index": 92,
         "team": "Fort Wayne",
         "id": 2870,
         "link": "purdue-fort-wayne-mastodons",
@@ -3760,7 +3525,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2870"
     },
     {
-        "index": 235,
         "team": "Quinnipiac",
         "id": 2514,
         "link": "quinnipiac-bobcats",
@@ -3776,7 +3540,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2514"
     },
     {
-        "index": 236,
         "team": "Radford",
         "id": 2515,
         "link": "radford-highlanders",
@@ -3792,7 +3555,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2515"
     },
     {
-        "index": 323,
         "team": "URI",
         "id": 227,
         "link": "rhode-island-rams",
@@ -3808,7 +3570,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/227"
     },
     {
-        "index": 237,
         "team": "Rice",
         "id": 242,
         "link": "rice-owls",
@@ -3824,7 +3585,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/242"
     },
     {
-        "index": 238,
         "team": "Richmond",
         "id": 257,
         "link": "richmond-spiders",
@@ -3840,7 +3600,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/257"
     },
     {
-        "index": 239,
         "team": "Rider",
         "id": 2520,
         "link": "rider-broncs",
@@ -3856,7 +3615,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2520"
     },
     {
-        "index": 240,
         "team": "Robert Morris",
         "id": 2523,
         "link": "robert-morris-colonials",
@@ -3872,7 +3630,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2523"
     },
     {
-        "index": 241,
         "team": "Rutgers",
         "id": 164,
         "link": "rutgers-scarlet-knights",
@@ -3888,7 +3645,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/164"
     },
     {
-        "index": 244,
         "team": "Sacramento St",
         "id": 16,
         "link": "sacramento-state-hornets",
@@ -3904,7 +3660,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/16"
     },
     {
-        "index": 245,
         "team": "Sacred Heart",
         "id": 2529,
         "link": "sacred-heart-pioneers",
@@ -3920,7 +3675,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2529"
     },
     {
-        "index": 274,
         "team": "St Francis (PA)",
         "id": 2598,
         "link": "st-francis-pa-red-flash",
@@ -3936,7 +3690,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2598"
     },
     {
-        "index": 246,
         "team": "Saint Joe's",
         "id": 2603,
         "link": "saint-josephs-hawks",
@@ -3952,7 +3705,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2603"
     },
     {
-        "index": 247,
         "team": "Saint Louis",
         "id": 139,
         "link": "saint-louis-billikens",
@@ -3968,7 +3720,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/139"
     },
     {
-        "index": 248,
         "team": "Saint Mary's",
         "id": 2608,
         "link": "saint-marys-gaels",
@@ -3984,7 +3735,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2608"
     },
     {
-        "index": 276,
         "team": "St Peter's",
         "id": 2612,
         "link": "saint-peters-peacocks",
@@ -4000,7 +3750,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2612"
     },
     {
-        "index": 249,
         "team": "Sam Houston",
         "id": 2534,
         "link": "sam-houston-state-bearkats",
@@ -4016,7 +3765,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2534"
     },
     {
-        "index": 250,
         "team": "Samford",
         "id": 2535,
         "link": "samford-bulldogs",
@@ -4032,7 +3780,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2535"
     },
     {
-        "index": 251,
         "team": "San Diego",
         "id": 301,
         "link": "san-diego-toreros",
@@ -4048,7 +3795,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/301"
     },
     {
-        "index": 252,
         "team": "San Diego State",
         "id": 21,
         "link": "san-diego-state-aztecs",
@@ -4064,7 +3810,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/21"
     },
     {
-        "index": 253,
         "team": "San Francisco",
         "id": 2539,
         "link": "san-francisco-dons",
@@ -4080,7 +3825,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2539"
     },
     {
-        "index": 254,
         "team": "San Jose State",
         "id": 23,
         "link": "san-jose-st-spartans",
@@ -4096,7 +3840,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/23"
     },
     {
-        "index": 255,
         "team": "Santa Clara",
         "id": 2541,
         "link": "santa-clara-broncos",
@@ -4112,7 +3855,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2541"
     },
     {
-        "index": 258,
         "team": "Seattle",
         "id": 2547,
         "link": "seattle-u-redhawks",
@@ -4128,7 +3870,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2547"
     },
     {
-        "index": 259,
         "team": "Seton Hall",
         "id": 2550,
         "link": "seton-hall-pirates",
@@ -4144,7 +3885,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2550"
     },
     {
-        "index": 260,
         "team": "SF Austin",
         "id": 2617,
         "link": "stephen-f-austin-lumberjacks",
@@ -4160,7 +3900,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2617"
     },
     {
-        "index": 261,
         "team": "Siena",
         "id": 2561,
         "link": "siena-saints",
@@ -4176,7 +3915,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2561"
     },
     {
-        "index": 262,
         "team": "SIUE",
         "id": 2565,
         "link": "siu-edwardsville-cougars",
@@ -4192,7 +3930,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2565"
     },
     {
-        "index": 263,
         "team": "SMU",
         "id": 2567,
         "link": "smu-mustangs",
@@ -4208,7 +3945,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2567"
     },
     {
-        "index": 264,
         "team": "South Alabama",
         "id": 6,
         "link": "south-alabama-jaguars",
@@ -4224,7 +3960,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/6"
     },
     {
-        "index": 265,
         "team": "South Carolina",
         "id": 2579,
         "link": "south-carolina-gamecocks",
@@ -4240,7 +3975,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2579"
     },
     {
-        "index": 242,
         "team": "S Carolina St",
         "id": 2569,
         "link": "south-carolina-state-bulldogs",
@@ -4256,7 +3990,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2569"
     },
     {
-        "index": 266,
         "team": "South Dakota",
         "id": 233,
         "link": "south-dakota-coyotes",
@@ -4272,7 +4005,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/233"
     },
     {
-        "index": 267,
         "team": "South Dakota St",
         "id": 2571,
         "link": "south-dakota-state-jackrabbits",
@@ -4288,7 +4020,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2571"
     },
     {
-        "index": 326,
         "team": "USF",
         "id": 58,
         "link": "south-florida-bulls",
@@ -4304,7 +4035,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/58"
     },
     {
-        "index": 257,
         "team": "SE Missouri St",
         "id": 2546,
         "link": "southeast-missouri-state-redhawks",
@@ -4320,7 +4050,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2546"
     },
     {
-        "index": 256,
         "team": "SE Louisiana",
         "id": 2545,
         "link": "se-louisiana-lions",
@@ -4336,7 +4065,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2545"
     },
     {
-        "index": 324,
         "team": "USC",
         "id": 30,
         "link": "usc-trojans",
@@ -4352,7 +4080,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/30"
     },
     {
-        "index": 243,
         "team": "S Illinois",
         "id": 79,
         "link": "southern-illinois-salukis",
@@ -4368,7 +4095,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/79"
     },
     {
-        "index": 270,
         "team": "Southern Miss",
         "id": 2572,
         "link": "southern-miss-golden-eagles",
@@ -4384,7 +4110,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2572"
     },
     {
-        "index": 268,
         "team": "Southern",
         "id": 2582,
         "link": "southern-jaguars",
@@ -4400,7 +4125,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2582"
     },
     {
-        "index": 271,
         "team": "Southern Utah",
         "id": 253,
         "link": "southern-utah-thunderbirds",
@@ -4416,7 +4140,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/253"
     },
     {
-        "index": 272,
         "team": "St Bonaventure",
         "id": 179,
         "link": "st-bonaventure-bonnies",
@@ -4432,7 +4155,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/179"
     },
     {
-        "index": 273,
         "team": "St Francis (BKN)",
         "id": 2597,
         "link": "st-francis-bkn-terriers",
@@ -4448,7 +4170,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2597"
     },
     {
-        "index": 275,
         "team": "St John's",
         "id": 2599,
         "link": "st-johns-red-storm",
@@ -4464,7 +4185,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2599"
     },
     {
-        "index": 277,
         "team": "St. Thomas - Minnesota",
         "id": 2900,
         "link": "st-thomas---minnesota-tommies",
@@ -4480,7 +4200,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2900"
     },
     {
-        "index": 278,
         "team": "Stanford",
         "id": 24,
         "link": "stanford-cardinal",
@@ -4496,7 +4215,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/24"
     },
     {
-        "index": 279,
         "team": "Stetson",
         "id": 56,
         "link": "stetson-hatters",
@@ -4512,7 +4230,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/56"
     },
     {
-        "index": 281,
         "team": "Stony Brook",
         "id": 2619,
         "link": "stony-brook-seawolves",
@@ -4528,7 +4245,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2619"
     },
     {
-        "index": 282,
         "team": "Syracuse",
         "id": 183,
         "link": "syracuse-orange",
@@ -4544,7 +4260,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/183"
     },
     {
-        "index": 283,
         "team": "Tarleton",
         "id": 2627,
         "link": "tarleton-texans",
@@ -4560,7 +4275,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2627"
     },
     {
-        "index": 284,
         "team": "TCU",
         "id": 2628,
         "link": "tcu-horned-frogs",
@@ -4576,7 +4290,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2628"
     },
     {
-        "index": 285,
         "team": "Temple",
         "id": 218,
         "link": "temple-owls",
@@ -4592,7 +4305,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/218"
     },
     {
-        "index": 287,
         "team": "Tennessee",
         "id": 2633,
         "link": "tennessee-volunteers",
@@ -4608,7 +4320,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2633"
     },
     {
-        "index": 288,
         "team": "Tennessee St",
         "id": 2634,
         "link": "tennessee-state-tigers",
@@ -4624,7 +4335,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2634"
     },
     {
-        "index": 286,
         "team": "Tenn Tech",
         "id": 2635,
         "link": "tennessee-tech-golden-eagles",
@@ -4640,7 +4350,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2635"
     },
     {
-        "index": 289,
         "team": "Texas",
         "id": 251,
         "link": "texas-longhorns",
@@ -4656,7 +4365,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/251"
     },
     {
-        "index": 290,
         "team": "Texas A&M",
         "id": 245,
         "link": "texas-am-aggies",
@@ -4672,7 +4380,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/245"
     },
     {
-        "index": 293,
         "team": "Texas Southern",
         "id": 2640,
         "link": "texas-southern-tigers",
@@ -4688,7 +4395,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2640"
     },
     {
-        "index": 294,
         "team": "Texas State",
         "id": 326,
         "link": "texas-state-bobcats",
@@ -4704,7 +4410,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/326"
     },
     {
-        "index": 295,
         "team": "Texas Tech",
         "id": 2641,
         "link": "texas-tech-red-raiders",
@@ -4720,7 +4425,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2641"
     },
     {
-        "index": 296,
         "team": "The Citadel",
         "id": 2643,
         "link": "the-citadel-bulldogs",
@@ -4736,7 +4440,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2643"
     },
     {
-        "index": 297,
         "team": "Toledo",
         "id": 2649,
         "link": "toledo-rockets",
@@ -4752,7 +4455,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2649"
     },
     {
-        "index": 298,
         "team": "Towson",
         "id": 119,
         "link": "towson-tigers",
@@ -4768,7 +4470,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/119"
     },
     {
-        "index": 299,
         "team": "Troy",
         "id": 2653,
         "link": "troy-trojans",
@@ -4784,7 +4485,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2653"
     },
     {
-        "index": 300,
         "team": "Tulane",
         "id": 2655,
         "link": "tulane-green-wave",
@@ -4800,7 +4500,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2655"
     },
     {
-        "index": 301,
         "team": "Tulsa",
         "id": 202,
         "link": "tulsa-golden-hurricane",
@@ -4816,7 +4515,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/202"
     },
     {
-        "index": 302,
         "team": "UAB",
         "id": 5,
         "link": "uab-blazers",
@@ -4832,7 +4530,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/5"
     },
     {
-        "index": 303,
         "team": "UC Davis",
         "id": 302,
         "link": "uc-davis-aggies",
@@ -4848,7 +4545,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/302"
     },
     {
-        "index": 304,
         "team": "UC Irvine",
         "id": 300,
         "link": "uc-irvine-anteaters",
@@ -4864,7 +4560,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/300"
     },
     {
-        "index": 305,
         "team": "UC Riverside",
         "id": 27,
         "link": "uc-riverside-highlanders",
@@ -4880,7 +4575,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/27"
     },
     {
-        "index": 306,
         "team": "UC San Diego",
         "id": 28,
         "link": "uc-san-diego-tritons",
@@ -4896,7 +4590,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/28"
     },
     {
-        "index": 310,
         "team": "UCSB",
         "id": 2540,
         "link": "uc-santa-barbara-gauchos",
@@ -4912,7 +4605,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2540"
     },
     {
-        "index": 307,
         "team": "UCF",
         "id": 2116,
         "link": "ucf-knights",
@@ -4928,7 +4620,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2116"
     },
     {
-        "index": 308,
         "team": "UCLA",
         "id": 26,
         "link": "ucla-bruins",
@@ -4944,7 +4635,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/26"
     },
     {
-        "index": 309,
         "team": "UConn",
         "id": 41,
         "link": "uconn-huskies",
@@ -4960,7 +4650,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/41"
     },
     {
-        "index": 311,
         "team": "UIC",
         "id": 82,
         "link": "uic-flames",
@@ -4976,7 +4665,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/82"
     },
     {
-        "index": 121,
         "team": "Incarnate Word",
         "id": 2916,
         "link": "incarnate-word-cardinals",
@@ -4992,7 +4680,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2916"
     },
     {
-        "index": 312,
         "team": "UL Monroe",
         "id": 2433,
         "link": "ul-monroe-warhawks",
@@ -5008,7 +4695,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2433"
     },
     {
-        "index": 314,
         "team": "UMass Lowell",
         "id": 2349,
         "link": "umass-lowell-river-hawks",
@@ -5024,7 +4710,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2349"
     },
     {
-        "index": 315,
         "team": "UMBC",
         "id": 2378,
         "link": "umbc-retrievers",
@@ -5040,7 +4725,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2378"
     },
     {
-        "index": 162,
         "team": "MD-E Shore",
         "id": 2379,
         "link": "maryland-eastern-shore-hawks",
@@ -5056,7 +4740,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2379"
     },
     {
-        "index": 318,
         "team": "UNC Asheville",
         "id": 2427,
         "link": "unc-asheville-bulldogs",
@@ -5072,7 +4755,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2427"
     },
     {
-        "index": 320,
         "team": "UNCG",
         "id": 2430,
         "link": "unc-greensboro-spartans",
@@ -5088,7 +4770,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2430"
     },
     {
-        "index": 319,
         "team": "UNC Wilmington",
         "id": 350,
         "link": "unc-wilmington-seahawks",
@@ -5104,7 +4785,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/350"
     },
     {
-        "index": 207,
         "team": "Northern Iowa",
         "id": 2460,
         "link": "northern-iowa-panthers",
@@ -5120,7 +4800,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2460"
     },
     {
-        "index": 322,
         "team": "UNLV",
         "id": 2439,
         "link": "unlv-rebels",
@@ -5136,7 +4815,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2439"
     },
     {
-        "index": 325,
         "team": "USC Upstate",
         "id": 2908,
         "link": "south-carolina-upstate-spartans",
@@ -5152,7 +4830,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2908"
     },
     {
-        "index": 327,
         "team": "UT Arlington",
         "id": 250,
         "link": "ut-arlington-mavericks",
@@ -5168,7 +4845,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/250"
     },
     {
-        "index": 328,
         "team": "UT Martin",
         "id": 2630,
         "link": "ut-martin-skyhawks",
@@ -5184,7 +4860,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2630"
     },
     {
-        "index": 330,
         "team": "Utah",
         "id": 254,
         "link": "utah-utes",
@@ -5200,7 +4875,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/254"
     },
     {
-        "index": 331,
         "team": "Utah State",
         "id": 328,
         "link": "utah-state-aggies",
@@ -5216,7 +4890,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/328"
     },
     {
-        "index": 333,
         "team": "Utah Valley",
         "id": 3084,
         "link": "utah-valley-wolverines",
@@ -5232,7 +4905,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/3084"
     },
     {
-        "index": 334,
         "team": "UTEP",
         "id": 2638,
         "link": "utep-miners",
@@ -5248,7 +4920,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2638"
     },
     {
-        "index": 329,
         "team": "UT Rio Grande",
         "id": 292,
         "link": "ut-rio-grande-valley-vaqueros",
@@ -5264,7 +4935,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/292"
     },
     {
-        "index": 335,
         "team": "UTSA",
         "id": 2636,
         "link": "utsa-roadrunners",
@@ -5280,7 +4950,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2636"
     },
     {
-        "index": 337,
         "team": "Valparaiso",
         "id": 2674,
         "link": "valparaiso",
@@ -5296,7 +4965,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2674"
     },
     {
-        "index": 338,
         "team": "Vanderbilt",
         "id": 238,
         "link": "vanderbilt-commodores",
@@ -5312,7 +4980,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/238"
     },
     {
-        "index": 339,
         "team": "VCU",
         "id": 2670,
         "link": "vcu-rams",
@@ -5328,7 +4995,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2670"
     },
     {
-        "index": 340,
         "team": "Vermont",
         "id": 261,
         "link": "vermont-catamounts",
@@ -5344,7 +5010,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/261"
     },
     {
-        "index": 341,
         "team": "Villanova",
         "id": 222,
         "link": "villanova-wildcats",
@@ -5360,7 +5025,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/222"
     },
     {
-        "index": 336,
         "team": "UVA",
         "id": 258,
         "link": "virginia-cavaliers",
@@ -5376,7 +5040,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/258"
     },
     {
-        "index": 342,
         "team": "Virginia Tech",
         "id": 259,
         "link": "virginia-tech-hokies",
@@ -5392,7 +5055,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/259"
     },
     {
-        "index": 343,
         "team": "VMI",
         "id": 2678,
         "link": "vmi-keydets",
@@ -5408,7 +5070,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2678"
     },
     {
-        "index": 348,
         "team": "Wagner",
         "id": 2681,
         "link": "wagner-seahawks",
@@ -5424,7 +5085,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2681"
     },
     {
-        "index": 349,
         "team": "Wake Forest",
         "id": 154,
         "link": "wake-forest-demon-deacons",
@@ -5440,7 +5100,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/154"
     },
     {
-        "index": 350,
         "team": "Washington",
         "id": 264,
         "link": "washington-huskies",
@@ -5456,7 +5115,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/264"
     },
     {
-        "index": 351,
         "team": "Washington St",
         "id": 265,
         "link": "washington-state-cougars",
@@ -5472,7 +5130,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/265"
     },
     {
-        "index": 352,
         "team": "Weber State",
         "id": 2692,
         "link": "weber-state-wildcats",
@@ -5488,7 +5145,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2692"
     },
     {
-        "index": 353,
         "team": "West Virginia",
         "id": 277,
         "link": "west-virginia-mountaineers",
@@ -5504,7 +5160,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/277"
     },
     {
-        "index": 344,
         "team": "W Carolina",
         "id": 2717,
         "link": "western-carolina-catamounts",
@@ -5520,7 +5175,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2717"
     },
     {
-        "index": 345,
         "team": "W Illinois",
         "id": 2710,
         "link": "western-illinois-leathernecks",
@@ -5536,7 +5190,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2710"
     },
     {
-        "index": 346,
         "team": "W Kentucky",
         "id": 98,
         "link": "western-kentucky-hilltoppers",
@@ -5552,7 +5205,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/98"
     },
     {
-        "index": 347,
         "team": "W Michigan",
         "id": 2711,
         "link": "western-michigan-broncos",
@@ -5568,7 +5220,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2711"
     },
     {
-        "index": 354,
         "team": "Wichita State",
         "id": 2724,
         "link": "wichita-state-shockers",
@@ -5584,7 +5235,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2724"
     },
     {
-        "index": 355,
         "team": "William & Mary",
         "id": 2729,
         "link": "william-mary-tribe",
@@ -5600,7 +5250,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2729"
     },
     {
-        "index": 356,
         "team": "Winthrop",
         "id": 2737,
         "link": "winthrop-eagles",
@@ -5616,7 +5265,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2737"
     },
     {
-        "index": 357,
         "team": "Wisconsin",
         "id": 275,
         "link": "wisconsin-badgers",
@@ -5632,7 +5280,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/275"
     },
     {
-        "index": 358,
         "team": "Wofford",
         "id": 2747,
         "link": "wofford-terriers",
@@ -5648,7 +5295,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2747"
     },
     {
-        "index": 359,
         "team": "Wright State",
         "id": 2750,
         "link": "wright-state-raiders",
@@ -5664,7 +5310,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2750"
     },
     {
-        "index": 360,
         "team": "Wyoming",
         "id": 2751,
         "link": "wyoming-cowboys",
@@ -5680,7 +5325,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2751"
     },
     {
-        "index": 361,
         "team": "Xavier",
         "id": 2752,
         "link": "xavier-musketeers",
@@ -5696,7 +5340,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2752"
     },
     {
-        "index": 362,
         "team": "Yale",
         "id": 43,
         "link": "yale-bulldogs",
@@ -5712,7 +5355,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/43"
     },
     {
-        "index": 363,
         "team": "Youngstown St",
         "id": 2754,
         "link": "youngstown-state-penguins",
@@ -5728,7 +5370,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2754"
     },
     {
-        "index": 234,
         "team": "Queens University",
         "id": 2511,
         "link": "queens-university-royals",
@@ -5744,7 +5385,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2511"
     },
     {
-        "index": 143,
         "team": "Lindenwood",
         "id": 2815,
         "link": "lindenwood-lions",
@@ -5760,7 +5400,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2815"
     },
     {
-        "index": 292,
         "team": "Texas A&M-Commerce",
         "id": 2837,
         "link": "texas-am-commerce-lions",
@@ -5776,7 +5415,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2837"
     },
     {
-        "index": 269,
         "team": "Southern Indiana",
         "id": 88,
         "link": "southern-indiana-screaming-eagles",
@@ -5792,7 +5430,6 @@
         "espn_games_url": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/88"
     },
     {
-        "index": 280,
         "team": "Stonehill",
         "id": 284,
         "link": "stonehill-skyhawks",
