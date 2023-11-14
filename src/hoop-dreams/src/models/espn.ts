@@ -21,7 +21,7 @@ export interface EspnGame {
 }
 
 
-export interface EspnGameBoxScore {
+export interface EspnGameBoxScore extends ExtraData {
     game_id: string; // game url
     home_team_id: string;
     away_team_id: string;
@@ -31,49 +31,54 @@ export interface EspnGameBoxScore {
     season: string;
     game_date: string;
     is_post_season: boolean | string;
-    result: string | null;
 }
 
-export interface EspnBoxScorePlayerStats {
+export interface EspnBoxScorePlayerStats extends EspnPlayerBase, ExtraData, EspnTeamBase  {
     game_id: string;
-    player_id: string | null;
-    player_name: string | null;
-    team_id: string | null;
-    team_url: string | null;
-    team_name: string | null;
     boxscore_url: string;
-    player_url: string | null;
     minutes_played: number | string;
     points: number | string;
-    position: string;
 }
 
-export interface EspnBracketologyTeam {
-    team_link: string | undefined;
-    team_id: string | undefined;
-    team: string;
+export interface EspnBracketologyTeam extends EspnTeamBase {
     seed: string;
     region: string;
     season: string;
 }
 
-export interface EspnTeamPlayerStats {
-    player_id: string;
-    team_id: string;
-    player: string;
+export interface EspnTeamBase {
+    team_id: string | null | undefined;
+    team_url: string | null | undefined;
+    team_name: string | null | undefined;
+}
+
+export interface EspnPlayerBase {
+    player_id: string | null | undefined;
+    player_name: string | null | undefined;
+    player_url: string | null | undefined;
+    position: Position | string | null | undefined;
+}
+
+export interface EspnTeamPlayerPerGameStats extends EspnPlayerBase, EspnTeamBase, ExtraData {
     position: Position | string;
     games_played: string;
     games_started: string;
-    minutes_per_game: number;
-    points_per_game: number;
-    player_link: string;
+    minutes_per_game: number | string | null;
+    points_per_game: number | string | null;
     season: string;
-
   }
+
+  export interface ExtraData {
+    data: DataMap | null | undefined;
+  }
+
+export type DataMap = { [key: string]: string };
 
 export type EspnTeamScheduleList = EspnList<EspnGame>;
 
 export type EspnBracketologyList = EspnList<EspnBracketologyTeam>;
+
+export type EspnTeamStatsList = EspnList<EspnTeamPlayerPerGameStats>;
 
 export type ColumnIndexLookup = { [key: string | ColumnKeys]: number };
 

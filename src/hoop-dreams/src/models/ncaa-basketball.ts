@@ -7,6 +7,7 @@ export interface TeamData {
   espn_name:                 string;
   link:                      string;
   espn_url:                  string;
+  espn_team_full_url:        string;
   espn_stats_url:            string;
   espn_games_url:            string;
   espn_abbrv:                string;

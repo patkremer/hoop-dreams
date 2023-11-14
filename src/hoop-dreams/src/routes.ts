@@ -5,6 +5,7 @@ import { EspnBracketologyScraper } from './scrapers/espn-bracketology-scraper.js
 import { EspnBoxScore, EspnBracketologyList, EspnTeamScheduleList } from './models/espn.js';
 import { EspnTeamScheduleScraper } from './scrapers/espn-team-schedule-scraper.js';
 import { EspnBoxScoreScraper } from './scrapers/espn-box-score-scraper.js';
+import { EspnTeamStatsScraper } from './scrapers/espn-team-stats-scraper.js';
 
 export const router = createCheerioRouter();
 export const createDataToSave = (request: Request<any>, $: CheerioAPI ) => {
@@ -22,28 +23,28 @@ router.addDefaultHandler(async ({ enqueueLinks, log, request, $, pushData }) => 
         log.info(`${request.label} ${request.url} being ran`);
 
         const scraper = new EspnBracketologyScraper();
-        const data = scraper.getData<EspnBracketologyList>(log, request, $);
+        const data = scraper.getData(log, request, $);
         
         const dataset = await Dataset.open('bracket');
         await dataset.pushData(data);
-
 
         await enqueueLinks({
             globs: [espnUrls.teamsBlobUrl],
             label: 'teams',
         });    
-    } else if (request.url === espnUrls.dailyD1Scoreboard) {
-        // enqueueLinks({
-        //     globs: [espnUrls.gameBoxScoreBlobUrl],
-        //     label: 'game-boxscores',
-        // });
 
+    } else if (request.url === espnUrls.dailyD1Scoreboard || request.url.startsWith('https://www.espn.com/mens-college-basketball/scoreboard/_/date')) {
+        log.info('boxscore queued')
+        enqueueLinks({
+            globs: [espnUrls.gameBoxScoreBlobUrl],
+            label: 'game-boxscores',
+        });
     }
-    
-    enqueueLinks({
-        globs: [espnUrls.gameBoxScoreBlobUrl],
-        label: 'game-boxscores',
-    });
+
+    // enqueueLinks({
+    //     globs: [espnUrls.gameBoxScoreBlobUrl],
+    //     label: 'game-boxscores',
+    // });
    
 });
 
@@ -81,15 +82,17 @@ router.addHandler('schedule', async ({ request, $, log, pushData, enqueueLinks  
     });
 });
 
-router.addHandler('team-stats', async ({ request, $, log, pushData, enqueueLinks }) => {
+router.addHandler('team-stats', async ({ request, $, log, enqueueLinks }) => {
     log.info(`${request.label} ${request.url} being ran`);
-
+    const scraper = new EspnTeamStatsScraper();
+    const teamstats = await scraper.getData(log, request, $);
+    const dataset = await Dataset.open('team-stats');
+    await dataset.pushData(teamstats);
     // enqueueLinks({
     //     globs: [espnUrls.playerBlobUrl],
     //     label: 'player',
     // })
 
-    await pushData(createDataToSave(request, $));
 });
 
 router.addHandler('player', async ({ request, $, log, pushData, enqueueLinks }) => {
@@ -131,12 +134,18 @@ router.addHandler('games', async ({ request, $, log, pushData, enqueueLinks  }) 
 });
 router.addHandler('game-boxscores', async ({ request, $, log, pushData  }) => {
     const scraper = new EspnBoxScoreScraper();
-    const data = scraper.getData<EspnBoxScore>(log, request, $);
+    const data = scraper.getData(log, request, $);
     const dataset = await Dataset.open('boxscores');
     await dataset.pushData(data);
     log.info(`${request.label} ${request.url} being ran`);
-
-    await pushData(createDataToSave(request, $));
 });
 
 
+export const teamStatsRouter = createCheerioRouter();
+teamStatsRouter.addDefaultHandler(async ({ enqueueLinks, log, request, $, pushData }) => {
+    log.info(`${request.url} being ran`);
+    const scraper = new EspnTeamStatsScraper();
+    const teamstats = await scraper.getData(log, request, $);
+    const dataset = await Dataset.open('team-stats');
+    await dataset.pushData(teamstats);
+});

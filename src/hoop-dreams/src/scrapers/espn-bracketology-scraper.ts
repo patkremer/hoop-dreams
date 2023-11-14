@@ -4,8 +4,8 @@ import { Log, Request } from 'crawlee';
 import { EspnScraper } from './scraper';
 import { getIdFromUrl } from '../utils/helpers.js';
 
-export class EspnBracketologyScraper implements EspnScraper {
-    getData<EspnBracketologyList>(log: Log, request: Request<any>, $: CheerioAPI): EspnBracketologyList {
+export class EspnBracketologyScraper implements EspnScraper<EspnBracketologyList> {
+    getData(log: Log, request: Request<any>, $: CheerioAPI): EspnBracketologyList {
         const bracket: EspnBracketologyTeam[] = [];
         const regions: { [key: string]: EspnBracketologyTeam[] } = {};
         $('.bracket__container').each((i, el) => {
@@ -45,23 +45,23 @@ export class EspnBracketologyScraper implements EspnScraper {
 
 
     private parseBracketTeam($: CheerioAPI, linkEl: Cheerio<Element>, log: Log, seed: string, region: string) {
-        let team_link = $(linkEl).attr('href') ? $(linkEl).attr('href')?.toString() as string : '';
+        let team_url = $(linkEl).attr('href') ? $(linkEl).attr('href')?.toString() as string : '';
         // parse team_id
-        let team_id = getIdFromUrl(team_link);
-        const team = $(linkEl).text().replace('aq - ', '').replace(' - aq', '').trim();
+        let team_id = getIdFromUrl(team_url);
+        const team_name = $(linkEl).text().replace('aq - ', '').replace(' - aq', '').trim();
         if (Number.isNaN(parseInt(team_id))) {
-            log.error(`TEAM_ID NOT A NUMBER ${team}`);
+            log.error(`TEAM_ID NOT A NUMBER ${team_name}`);
            team_id = '0';
-           team_link = '';
+           team_url = '';
         }
 
-        log.info(`${team_id} ${team}`);
+        log.info(`${team_id} ${team_name}`);
 
         const bracketTeam: EspnBracketologyTeam = {
             seed,
             region,
-            team_link,
-            team,
+            team_url,
+            team_name,
             team_id,
             season: '2023-24'
         };
